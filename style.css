@@ -10,14 +10,14 @@ h1 {
 h2 {
     font-size: 50px;
 }
-.text-white{
+
+.text-white {
     color: white;
 }
 
-section {
+.flexible-container {
     display: flex;
     padding: 7%;
-    
 }
 
 .my-self {
@@ -33,11 +33,16 @@ img {
     text-decoration: none;
     padding: 10px 50px;
     border-radius: 10px;
-    background-image: linear-gradient(blue,blueviolet);
+    background-image: linear-gradient(blue, blueviolet);
     color: white;
     font-weight: 700;
 }
-.top-banner{
+
+.top-banner {
     background-image: url(images/wave.svg );
     background-repeat: no-repeat;
+}
+.Specialliz-head{
+    text-align: center;
+    padding: 28%;
 }
